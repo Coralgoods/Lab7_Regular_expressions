@@ -1,0 +1,12 @@
+/Users/eduardodiaz/Documents/Labs and Deliverables/LAB7RegExpressions/bin/Debug/LAB7RegExpressions.exe
+/Users/eduardodiaz/Documents/Labs and Deliverables/LAB7RegExpressions/bin/Debug/LAB7RegExpressions.pdb
+/Users/eduardodiaz/Documents/Labs and Deliverables/LAB7RegExpressions/obj/Debug/LAB7RegExpressions.csproj.AssemblyReference.cache
+/Users/eduardodiaz/Documents/Labs and Deliverables/LAB7RegExpressions/obj/Debug/LAB7RegExpressions.csproj.CoreCompileInputs.cache
+/Users/eduardodiaz/Documents/Labs and Deliverables/LAB7RegExpressions/obj/Debug/LAB7RegExpressions.exe
+/Users/eduardodiaz/Documents/Labs and Deliverables/LAB7RegExpressions/obj/Debug/LAB7RegExpressions.pdb
+/Users/eduardodiaz/Documents/Assessments/Lab7_Regular_expressions/bin/Debug/LAB7RegExpressions.exe
+/Users/eduardodiaz/Documents/Assessments/Lab7_Regular_expressions/bin/Debug/LAB7RegExpressions.pdb
+/Users/eduardodiaz/Documents/Assessments/Lab7_Regular_expressions/obj/Debug/LAB7RegExpressions.csproj.AssemblyReference.cache
+/Users/eduardodiaz/Documents/Assessments/Lab7_Regular_expressions/obj/Debug/LAB7RegExpressions.csproj.CoreCompileInputs.cache
+/Users/eduardodiaz/Documents/Assessments/Lab7_Regular_expressions/obj/Debug/LAB7RegExpressions.exe
+/Users/eduardodiaz/Documents/Assessments/Lab7_Regular_expressions/obj/Debug/LAB7RegExpressions.pdb
